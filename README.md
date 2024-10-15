@@ -24,3 +24,5 @@ chmod +x unichain.sh
 - Click Token ID (7745)
 - and Copy example https://ipfs.io/ipfs/QmTbr9FsX1NqWNKgutqbGUz6XJfqZ22UCcnG97S1ydavFq/63310
 - Done
+
+- join Chanel for next update https://t.me/ZonaAirdr0p
