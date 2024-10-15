@@ -189,7 +189,7 @@ forge build
 show "Deploying NFT contract..." "progress"
 read -p "Enter your private key: " YOUR_PRIVATE_KEY
 read -p "Enter the owner address for the NFT contract: " OWNER_ADDRESS
-DEPLOY_CMD="forge create zonaairdrop/MyNFT.sol:MyNFT --rpc-url https://sepolia.unichain.org --private-key $YOUR_PRIVATE_KEY --constructor-args $OWNER_ADDRESS"
+DEPLOY_CMD="forge create winsnip/MyNFT.sol:MyNFT --rpc-url https://sepolia.unichain.org --private-key $YOUR_PRIVATE_KEY --constructor-args $OWNER_ADDRESS"
 eval $DEPLOY_CMD
 read -p "Enter deployed NFT contract address: " NFT_CONTRACT_ADDRESS
 show "Minting NFTs..." "progress"
