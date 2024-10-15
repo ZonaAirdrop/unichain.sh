@@ -5,8 +5,7 @@ It is recommended to use VPS ,Or Via Gitpod
 ```
 curl -O https://raw.githubusercontent.com/ZonaAirdrop/unichain.sh/main/unichain.sh
 chmod +x unichain.sh
-./unichain.sh```
-
+./unichain.sh
 
 - Create a token Tesnet 
 - Check Contact address 
