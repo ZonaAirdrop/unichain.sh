@@ -166,7 +166,7 @@ show "All tokens sent successfully." "done"
 # NFT Contract Creation
 read -p "Enter the name of the NFT: " NFT_NAME
 read -p "Enter the symbol of the NFT: " NFT_SYMBOL
-cat <<EOF > zonaairdrop/MyNFT.sol
+cat <<EOF > winsnip/MyNFT.sol
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 import "lib/openzeppelin-contracts/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
